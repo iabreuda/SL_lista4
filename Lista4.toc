@@ -1,32 +1,32 @@
 \select@language {portuges}
-\contentsline {section}{\numberline {1}S\IeC {\'e}rie de Fourier}{2}{section.1}
-\contentsline {subsection}{\numberline {1.1}Quest\IeC {\~a}o 1}{2}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}Item a}{2}{subsubsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.2}Item b}{2}{subsubsection.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.3}Item c}{2}{subsubsection.1.1.3}
-\contentsline {subsection}{\numberline {1.2}Quest\IeC {\~a}o 2}{2}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Quest\IeC {\~a}o 3}{2}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Item a}{2}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Item b}{2}{subsubsection.1.3.2}
-\contentsline {subsection}{\numberline {1.4}Quest\IeC {\~a}o 4}{2}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}Item a}{2}{subsubsection.1.4.1}
-\contentsline {subsubsection}{\numberline {1.4.2}Item b}{2}{subsubsection.1.4.2}
-\contentsline {subsection}{\numberline {1.5}Quest\IeC {\~a}o 5}{2}{subsection.1.5}
-\contentsline {subsubsection}{\numberline {1.5.1}Item a}{2}{subsubsection.1.5.1}
-\contentsline {subsubsection}{\numberline {1.5.2}Item b}{2}{subsubsection.1.5.2}
-\contentsline {subsection}{\numberline {1.6}Quest\IeC {\~a}o 6}{2}{subsection.1.6}
-\contentsline {subsubsection}{\numberline {1.6.1}Item a}{2}{subsubsection.1.6.1}
-\contentsline {subsubsection}{\numberline {1.6.2}Item b}{2}{subsubsection.1.6.2}
-\contentsline {section}{\numberline {2}Transformada de Fourier}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Quest\IeC {\~a}o 7}{2}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Item a}{2}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}Item b}{2}{subsubsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.3}Item c}{2}{subsubsection.2.1.3}
-\contentsline {subsection}{\numberline {2.2}Quest\IeC {\~a}o 8}{2}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Quest\IeC {\~a}o 9}{2}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Item a}{2}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}Item b}{2}{subsubsection.2.3.2}
-\contentsline {subsection}{\numberline {2.4}Quest\IeC {\~a}o 10}{2}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Quest\IeC {\~a}o 11}{2}{subsection.2.5}
-\contentsline {subsubsection}{\numberline {2.5.1}Item a}{2}{subsubsection.2.5.1}
-\contentsline {subsubsection}{\numberline {2.5.2}Item b}{2}{subsubsection.2.5.2}
+\contentsline {section}{\numberline {1}S\IeC {\'e}rie de Fourier}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Quest\IeC {\~a}o 1}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Item a}{1}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Item b}{1}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Item c}{3}{subsubsection.1.1.3}
+\contentsline {subsection}{\numberline {1.2}Quest\IeC {\~a}o 2}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Quest\IeC {\~a}o 3}{3}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Item a}{3}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Item b}{3}{subsubsection.1.3.2}
+\contentsline {subsection}{\numberline {1.4}Quest\IeC {\~a}o 4}{3}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Item a}{3}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Item b}{3}{subsubsection.1.4.2}
+\contentsline {subsection}{\numberline {1.5}Quest\IeC {\~a}o 5}{3}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}Item a}{3}{subsubsection.1.5.1}
+\contentsline {subsubsection}{\numberline {1.5.2}Item b}{3}{subsubsection.1.5.2}
+\contentsline {subsection}{\numberline {1.6}Quest\IeC {\~a}o 6}{3}{subsection.1.6}
+\contentsline {subsubsection}{\numberline {1.6.1}Item a}{3}{subsubsection.1.6.1}
+\contentsline {subsubsection}{\numberline {1.6.2}Item b}{3}{subsubsection.1.6.2}
+\contentsline {section}{\numberline {2}Transformada de Fourier}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Quest\IeC {\~a}o 7}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Item a}{3}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Item b}{3}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Item c}{3}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Quest\IeC {\~a}o 8}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Quest\IeC {\~a}o 9}{3}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Item a}{3}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Item b}{3}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Quest\IeC {\~a}o 10}{3}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Quest\IeC {\~a}o 11}{3}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Item a}{3}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Item b}{3}{subsubsection.2.5.2}
